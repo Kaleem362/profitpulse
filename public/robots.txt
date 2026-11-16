@@ -1,0 +1,9 @@
+# Allow all web search engines & AdSense crawler
+User-agent: *
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://profitpulse.io/sitemap.xml
+
