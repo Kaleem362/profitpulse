@@ -3,6 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
   cleanDistDir: false,
+  output: "export",
 };
 
 export default nextConfig;
